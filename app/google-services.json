@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "333310073728",
+    "firebase_url": "https://teacher-assistance-bcd54.firebaseio.com",
+    "project_id": "teacher-assistance-bcd54",
+    "storage_bucket": "teacher-assistance-bcd54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333310073728:android:205133b4466ed18d",
+        "android_client_info": {
+          "package_name": "co.raveblue.teacherassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333310073728-n8gagddfvb07tcvas7eglo247r04pp2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.raveblue.teacherassistant",
+            "certificate_hash": "3619665e32b0e1501f763fe2d7c3d918fe688daf"
+          }
+        },
+        {
+          "client_id": "333310073728-s002oieothmgm2nj73ie8emn771hu64k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7csZZhVWzKnSIlm-fjDQ2AwcAgjnkjRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333310073728-s002oieothmgm2nj73ie8emn771hu64k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
